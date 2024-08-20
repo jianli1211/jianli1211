@@ -7,7 +7,6 @@
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
-<br/>
 <!-- - 🤔 I’m looking for a job ... -->
 </div>
 <div align="center">
